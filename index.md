@@ -15,7 +15,7 @@ You can access his website at [this link](https://johnguerra.co/)
 
 ## About Our Project
 
-# Abstract to our Research Paper #
+### Abstract to our Research Paper ###
 
 *This paper reviews literature on best practices in data visualization of irresponsible Artificial Intelligence (AI) instances. The introduction speaks about data visualization’s ability to communicate data as well as to aid in development of new data and insights. We explain our motivation in how the irresponsible Artificial Intelligence dataset can help domain experts support more accountability in AI. We explore identified risks in data visualization, and present our countermeasure through catering our tool to the nuances of our data and user stories. We outline our data and ideal user, review best practices, then outline proposed features that would enable our data visualization to be a successful tool.*
 
