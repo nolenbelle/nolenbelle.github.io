@@ -13,12 +13,15 @@ John Alexis Guerra Gómez is an Information Visualization Researcher and Enginee
 
 You can access his website at [this link](https://johnguerra.co/)
 
-## About My Project
+## About Our Project
+
+#Abstract to our Research Paper#
+
+*This paper reviews literature on best practices in data visualization of irresponsible Artificial Intelligence (AI) instances. The introduction speaks about data visualization’s ability to communicate data as well as to aid in development of new data and insights. We explain our motivation in how the irresponsible Artificial Intelligence dataset can help domain experts support more accountability in AI. We explore identified risks in data visualization, and present our countermeasure through catering our tool to the nuances of our data and user stories. We outline our data and ideal user, review best practices, then outline proposed features that would enable our data visualization to be a successful tool.*
 
 The general area for our research project is data visualization for instances of irresponsible artificial intelligence. This means that we research and improve the best practices for visualizing this kind of data, with domain experts being our main audience. We are working in observable notebook with d3 and Vega-Lite. The following interactive tool was built by John, our research advisor, to explore datasets. This tool is an example of what we would aim to build, or at least propose features for, during this project. This instance of the navio is loaded with data from our project, so you can also explore our dataset below.
 
-<iframe width="100%" height="376" frameborder="0"
-  src="https://observablehq.com/embed/2ed9bcdeef401cb3?cells=viewof+selected"></iframe>
+<iframe width="100%" height="350" frameborder="0" src="https://observablehq.com/embed/@nolenbelle/learning-with-the-ai-data?cells=viewof+rawData"></iframe>
 
 The specific problem we are working on tackling is that AI in its current state is often unfair, furthers pre-existing societal discrimination, and is difficult to control. Our solution is to build an Irresponsible AI Atlas to track what instances of irresponsible AI actually exist, in order to foster more discussion and action toward accountability.
 
@@ -26,7 +29,7 @@ There is a knowledge gap we aim to cover with the AI Atlas, as well as a knowled
 
 We can explore this question through research on what features have made for successful data visualization tools in this domain, in the past. We will conduct a literature review on best practices. One key to answering this question will be developing specific usage scenarios for the specific audience that might use our tool. 
 
-Some usage scenario examples:
+Here is an example of the backlogs of usage scenarios:
 * Rachel, a phd student who does research to support AI accountability organizations, wants to be able to view the descriptions of an incident and company responsible, associated with a scatterplot point by clicking on it
 
 * Rachel wants to look at the instances of irresponsible AI on a timeline, in order to determine if the impact on specific marginalized populations are growing with time
